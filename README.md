@@ -1,2 +1,2 @@
-# pwdtool
+# PWDtool
 A password tool
